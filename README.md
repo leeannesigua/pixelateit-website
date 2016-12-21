@@ -17,3 +17,7 @@ about.html - This is the about page which has a description about my friend as w
 contact.html - The contact page is used for the visitors to get in touch with my friend through the use of a contact form where visitors can leave a messege. 
 
   -The contact page does not officially work since my friend is not going to publish the site anytime soon. For now, if you enter any information within the contact form and click submit, there will be a page that will show the information that you have entered.
+
+pixelateit.css - contains all CSS for pixelateit website.
+
+link: http://one-small-planet.us/132/1204348/mywebsite/

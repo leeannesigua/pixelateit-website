@@ -20,4 +20,4 @@ contact.html - The contact page is used for the visitors to get in touch with my
 
 pixelateit.css - contains all CSS for pixelateit website.
 
-link: http://one-small-planet.us/132/1204348/mywebsite/
+
